@@ -1,0 +1,111 @@
+body {	
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: #66CCFF;
+	text-align:center;
+	margin:auto;
+}
+
+.standard {
+	color: #00008B;
+}
+
+a {
+	color:#00008B;
+	text-decoration:none;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+a:hover {
+	text-decoration:underline;
+	font-style:italic;
+}
+
+#sitelinks {
+	text-align:center;
+	position:fixed;
+	background-color:#00CED1;
+	width:100%;
+	margin-top:-1em;
+	padding-top:1em;
+	padding-bottom:1em;
+}
+
+#sitelinks li {
+	display:inline;
+	padding-left:0.5em;
+	padding-right:0.5em;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#facemail {
+	font-size: 0.9em;
+	text-align:center;
+	width:100%;
+	padding-top:0.5em;
+	padding-bottom:1em;
+}
+
+#facemail li {
+	display:inline;
+	padding-left:2em;
+	padding-right:2em;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#sitefooter {
+	font-size:0.85em;
+	text-align:center;
+	background-color:#00CED1;
+
+	padding-bottom: 1em;
+}
+
+.slogan {
+	font-size: 2em;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.banner {
+	width:100%;
+}
+
+
+#foothr {
+
+}
+
+.blueback {
+	background-color:#00CED1;
+
+
+}
+
+h1 {
+	font-size: 2.2em;
+	font-style:italic;
+	font-weight:bold;
+	color:#00CED1;
+}
+
+h2 {
+	font-size: 1.7em;
+	font-style: italic;
+	color:#00CED1;
+}
+
+h3 {
+	font-size: 1.2em;
+	font-style: italic;
+	color:black;
+}
+
+.generaltext {
+	font-size:1em;
+	max-width:40em;
+	margin:auto;
+}
+
+ul {
+	list-style-type:none;
+	padding:0px;
+}
